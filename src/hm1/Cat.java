@@ -7,12 +7,12 @@ public class Cat implements Activities {
 
     @Override
     public void run() {
-        System.out.println("Кот может бежать");
+        System.out.println("Кот может бежать.");
     }
 
     @Override
     public void jump() {
-        System.out.println("Кот может прыгать");
+        System.out.println("Кот может прыгать.");
     }
 }
 

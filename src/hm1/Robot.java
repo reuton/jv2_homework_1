@@ -7,11 +7,11 @@ public class Robot implements Activities {
 
     @Override
     public void run() {
-        System.out.println("Робот может бежать");
+        System.out.println("Робот может бежать.");
     }
 
     @Override
     public void jump() {
-        System.out.println("Робот может прыгать");
+        System.out.println("Робот может прыгать.");
     }
 }
